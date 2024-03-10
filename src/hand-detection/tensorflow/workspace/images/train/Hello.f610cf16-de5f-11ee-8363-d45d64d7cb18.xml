@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collected_images</folder>
+	<filename>Hello.f610cf16-de5f-11ee-8363-d45d64d7cb18.jpg</filename>
+	<path>C:\Users\desktop\Documents\awl-Nishchay-intern-work\GrizzHacks\RealTimeObjectDetection\Tensorflow\workspace\images\collected_images\Hello.f610cf16-de5f-11ee-8363-d45d64d7cb18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>402</xmin>
+			<ymin>202</ymin>
+			<xmax>558</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>
